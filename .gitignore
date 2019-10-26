@@ -2,3 +2,16 @@
 .idea
 *.iml
 target
+.classpath
+
+.project
+
+.settings/
+
+.gradle/buildOutputCleanup/
+
+.gradle/4.7/fileChanges/
+
+.gradle/4.7/fileHashes/
+
+.gradle/4.7/taskHistory/
